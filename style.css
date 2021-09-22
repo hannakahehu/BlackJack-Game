@@ -1,0 +1,31 @@
+
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+  background-color: green; 
+  text-align: center;
+  color: white;
+  font-weight: bold;
+
+}
+h1{
+  color: gold;
+}
+
+button{
+  color: #016f32;
+  background: gold;
+  width: 150px;
+  padding-top: 5px;
+  padding-bottom:7px;
+  border-bottom: none;
+  font-weight: bold;
+  border-radius: 1070px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+
+}
+
+
+
+
+
